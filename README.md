@@ -1,4 +1,5 @@
 # 32-MIPS-PROCESSOR-WITH-5STAGE-PIPELINE-WITH-BRANCH-FLUSHING
+
 Project Overview:-
 
 This is the implementation of a 32 bit MIPS Processor based on a five-stage instruction pipeline design in verilog. The aims to carry out an instruction pipeline through the standard IF (Instruction Fetch), ID (Instruction Decode), EX (Execute), MEM (Memory Access), and WB (Write Back) forms. Effectively, branch flushing is implemented to deal with the control hazards in the pipeline. 
